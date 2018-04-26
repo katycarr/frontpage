@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/katycarr/news_backend
+[submodule "client"]
+	path = client
+	url = https://github.com/katycarr/news_frontend
