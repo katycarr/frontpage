@@ -10,21 +10,20 @@
 * As a user, I can login and see new articles related to my topics
 * As a user, I can save stories to read later
 
-## Wire-Frames
-
 ## Frameworks & Libraries
 
 * APIs
-  * News API
-  * Aylien
-  * Watson NLU
-  * DBpedia lookup
+  * [News API](https://newsapi.org/)
+  * [Aylien Text Analysis](https://aylien.com/text-api/)
+  * [Watson NLU](https://www.ibm.com/watson/services/natural-language-understanding/)
+  * [DBpedia lookup](https://github.com/dbpedia/lookup)
 * Gems
+  * jwt
   * Odyssey
   * readingtime
   * nokogiri
-  * readability
+  * ruby-readability
   * aylien_text_api
   * watson-api-client
-
-## State
+  * active_model_serializers
+  * activerecord-import
